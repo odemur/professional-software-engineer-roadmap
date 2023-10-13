@@ -15,4 +15,27 @@ In **software engineering**, a solid foundation consists of **programming logic*
 
 If you liked or are using this guide to learn or start your software engineering journey, please **give it a star**.
 
-## Continue (step by step)...
+## Related books that can help you
+
+* Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell
+* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
+* Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin
+* Refactoring: Improving the Design of Existing Code by Martin Fowler
+* The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt
+* Programming Pearls by Jon Bentley
+* Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma
+* Head First Design Patterns: A Brain-Friendly Guide by Eric Freeman
+* Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans
+* Working Effectively with Legacy Code by Michael Feathers
+* Test Driven Development: By Example by Kent Beck
+* The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition by Brooks Jr., Frederick P.
+* Introduction to Algorithms, 3rd Edition (The MIT Press) by Thomas H. Cormen
+* Patterns of Enterprise Application Architecture by Martin Fowler
+* Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard
+* Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell
+* Rapid Development: Taming Wild Software Schedules by Steve McConnell
+* Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
+* Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco
+
+## Continue...
