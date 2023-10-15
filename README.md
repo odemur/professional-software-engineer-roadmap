@@ -15,6 +15,14 @@ In **software engineering**, a solid foundation consists of **programming logic*
 
 If you liked or are using this guide to learn or start your software engineering journey, please **give it a star**.
 
+## You should learn data structure:
+* [Understand Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2019/understand-data-structures) - LinkedIn
+* [Arrays](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays) - Coursera
+* [Dynamic Arrays](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays) - Coursera
+* [Linked Lists](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists) - Coursera
+* [Stack](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks) - Coursera
+* [Queue](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue) - Coursera
+
 ## Related books that can help you
 
 * Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell
