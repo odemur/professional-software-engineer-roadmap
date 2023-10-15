@@ -15,7 +15,15 @@ In **software engineering**, a solid foundation consists of **programming logic*
 
 If you liked or are using this guide to learn or start your software engineering journey, please **give it a star**.
 
-## You should learn data structure:
+***
+
+### Basic coding
+
+## Focus on basic coding instructions
+* [Introduction to Computer Science CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) - Harvard
+* [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity
+
+## You should learn data structure
 * [Understand Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2019/understand-data-structures) - LinkedIn
 * [Arrays](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays) - Coursera
 * [Dynamic Arrays](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays) - Coursera
