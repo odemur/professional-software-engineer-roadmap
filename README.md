@@ -20,7 +20,7 @@ If you liked or are using this guide to learn or start your software engineering
 ### Basic coding
 
 ## Focus on basic coding instructions
-* [Introduction to Computer Science CS50x](https://pll.harvard.edu/course/cs50-introduction-computer-science) - Harvard
+* [Introduction to Computer Science CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) - Harvard
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity
 
 ## You should learn data structure
