@@ -54,4 +54,15 @@ If you liked or are using this guide to learn or start your software engineering
 * Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 * Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco
 
+## Challenge and Practice Sites
+
+* [LeetCode](https://leetcode.com/)
+* [HackerRank](https://www.hackerrank.com/)
+* [TopCoder](https://www.topcoder.com/)
+* [Codeforces](https://codeforces.com/)
+* [Codility](https://codility.com/programmers/)
+* [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?page=1)
+* [AlgoExpert](https://www.algoexpert.io/product)
+* [Project Euler](https://projecteuler.net/)
+
 ## Continue...
