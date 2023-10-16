@@ -19,7 +19,7 @@ If you liked or are using this guide to learn or start your software engineering
 
 ## Get Started
 
-## Data Structures
+### Data Structures
 * Arrays
 * Linked Lists
 * Stack
@@ -30,13 +30,13 @@ If you liked or are using this guide to learn or start your software engineering
 * Heap
 * Graphs
 
-### Basic coding
+## Basic coding
 
-## Focus on basic coding instructions
+### Focus on basic coding instructions
 * [Introduction to Computer Science CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) - Harvard
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity
 
-## You should learn data structure
+### You should learn data structure
 * [Understand Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2019/understand-data-structures) - LinkedIn
 * [Arrays](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays) - Coursera
 * [Dynamic Arrays](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays) - Coursera
@@ -44,7 +44,7 @@ If you liked or are using this guide to learn or start your software engineering
 * [Stack](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks) - Coursera
 * [Queue](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue) - Coursera
 
-## Challenge and Practice Sites
+### Challenge and Practice Sites
 
 * [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
