@@ -82,4 +82,13 @@ Se você gostou ou está usando este guia para aprender ou iniciar sua jornada e
 * Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 * Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco
 
+## Hábitos de produtividade
+* Foco em uma coisa de cada vez
+* Seja disciplinado
+* Não reinvente a roda
+* Faça pequenas pausas do computador
+* Abandone o modo multitarefa
+* Seja um solucionador de problemas 
+* Compartilhe seus aprendizados
+
 ## Continua...
