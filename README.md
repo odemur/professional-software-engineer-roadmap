@@ -80,4 +80,13 @@ If you liked or are using this guide to learn or start your software engineering
 * Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 * Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco
 
+## Highly Productive Habits
+* Deeply focus on the one thing
+* Be disciplined
+* Don't reinvent the wheel
+* Step away from the keyboard often
+* Avoid multitasking, it's an error
+* Persist at solving problems
+* Share findings along the way
+
 ## Continue...
