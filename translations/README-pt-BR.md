@@ -19,9 +19,9 @@ Se você gostou ou está usando este guia para aprender ou iniciar sua jornada e
 
 ***
 
-## Get Started
+## Início
 
-### Data Structures
+### Estrutura de Dados
 * Arrays
 * Linked Lists
 * Stack
@@ -32,13 +32,13 @@ Se você gostou ou está usando este guia para aprender ou iniciar sua jornada e
 * Heap
 * Graphs
 
-## Basic coding
+## Programação 
 
-### Focus on basic coding instructions
+### Aprender os conceitos básicos de programação 
 * [Introduction to Computer Science CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science) - Harvard
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) - Udacity
 
-### You should learn data structure
+### Aprender sobre estrutura de dados 
 * [Understand Data Structures](https://www.linkedin.com/learning/programming-foundations-data-structures-2019/understand-data-structures) - LinkedIn
 * [Arrays](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays) - Coursera
 * [Dynamic Arrays](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays) - Coursera
@@ -46,7 +46,7 @@ Se você gostou ou está usando este guia para aprender ou iniciar sua jornada e
 * [Stack](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks) - Coursera
 * [Queue](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue) - Coursera
 
-### Challenge and Practice Sites
+### Sites para praticar programação 
 
 * [LeetCode](https://leetcode.com/)
 * [HackerRank](https://www.hackerrank.com/)
@@ -59,7 +59,7 @@ Se você gostou ou está usando este guia para aprender ou iniciar sua jornada e
 
 
 
-## Related books that can help you
+## Livros que podem ajudar 
 
 * Code Complete: A Practical Handbook of Software Construction, Second Edition by Steve McConnell
 * Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
@@ -82,4 +82,4 @@ Se você gostou ou está usando este guia para aprender ou iniciar sua jornada e
 * Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts by Joseph Ingeno
 * Peopleware: Productive Projects and Teams (3rd Edition) by Tom DeMarco
 
-## Continue...
+## Continua...
